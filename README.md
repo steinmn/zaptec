@@ -4,6 +4,7 @@
 [![GitHub Release][releases-shield]][releases]
 [![License][license-shield]][license]
 ![Downloads][downloads-shield]
+![Downloads@latest][latest-downloads-shield]
 
 [![Project Maintenance][hellowlol-maintenance-shield]][hellowlol-profile]
 [![BuyMeCoffee][buymecoffeebadge]][hellowlol-buymecoffee]
@@ -461,5 +462,6 @@ for the new treatment of the Circuit level)
 [releases-shield]: https://img.shields.io/github/release/custom-components/zaptec.svg
 [releases]: https://github.com/custom-components/zaptec/releases
 [downloads-shield]: https://img.shields.io/github/downloads/custom-components/zaptec/total.svg
+[latest-downloads-shield]: https://img.shields.io/github/downloads/custom-components/zaptec/latest/total.svg
 [hellowlol-profile]: https://github.com/hellowlol
 [sveinse-profile]: https://github.com/sveinse
